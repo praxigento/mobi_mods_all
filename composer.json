@@ -1,0 +1,43 @@
+{
+  "name": "praxigento/mobi_mods_all",
+  "description": "All MOBI modules bundled for refactoring.",
+  "type": "magento2-module",
+  "homepage": "https://github.com/praxigento/mobi_mods_all",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex Gusev",
+      "email": "flancer64@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "flancer32/mage2_ext_log": "dev-master",
+    "flancer32/mage2_ext_login_as": "dev-master",
+    "flancer32/php_data_object": "dev-master",
+    "flancer32/mage2_ext_repo": "dev-master",
+    "praxigento/mobi_app_generic_mage2": "dev-master",
+    "praxigento/mobi_app_santegra": "dev-master",
+    "praxigento/mobi_mod_mage2_accounting": "dev-master",
+    "praxigento/mobi_mod_mage2_bonus_base": "dev-master",
+    "praxigento/mobi_mod_mage2_bonus_global_sales": "dev-master",
+    "praxigento/mobi_mod_mage2_bonus_hybrid": "dev-master",
+    "praxigento/mobi_mod_mage2_bonus_loyalty": "dev-master",
+    "praxigento/mobi_mod_mage2_core": "dev-master",
+    "praxigento/mobi_mod_mage2_downline": "dev-master",
+    "praxigento/mobi_mod_mage2_odoo": "dev-master",
+    "praxigento/mobi_mod_mage2_pv": "dev-master",
+    "praxigento/mobi_mod_mage2_wallet": "dev-master",
+    "praxigento/mobi_mod_mage2_warehouse": "dev-master"
+  },
+  "repositories": {
+    "praxigento/mobi_app_generic_mage2": {
+      "type": "vcs",
+      "url": "https://github.com/praxigento/mobi_app_generic_mage2"
+    },
+    "praxigento/mobi_app_santegra": {
+      "type": "vcs",
+      "url": "https://github.com/praxigento/mobi_app_santegra"
+    }
+  }
+}
