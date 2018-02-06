@@ -25,8 +25,10 @@
     "praxigento/mobi_mod_mage2_bonus_hybrid": "dev-master",
     "praxigento/mobi_mod_mage2_bonus_loyalty": "dev-master",
     "praxigento/mobi_mod_mage2_core": "dev-master",
+    "praxigento/mobi_mod_dcp": "dev-master",
     "praxigento/mobi_mod_mage2_downline": "dev-master",
     "praxigento/mobi_mod_mage2_odoo": "dev-master",
+    "praxigento/mobi_mod_pension_fund": "dev-master",
     "praxigento/mobi_mod_mage2_pv": "dev-master",
     "praxigento/mobi_mod_mage2_wallet": "dev-master",
     "praxigento/mobi_mod_mage2_warehouse": "dev-master"
