@@ -1,4 +1,5 @@
 /.idea/
+/tmp/
 /vendor/
 /atlassian-ide-plugin.xml
 /composer.lock
