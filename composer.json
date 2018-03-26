@@ -19,24 +19,24 @@
     "praxigento/mobi_app_generic_mage2": "dev-master",
     "praxigento/mobi_app_santegra": "dev-master",
     "praxigento/mobi_mod_bonus_referral": "dev-master",
-    "praxigento/mobi_mod_mage2_accounting": "dev-master",
-    "praxigento/mobi_mod_mage2_bonus_base": "dev-master",
-    "praxigento/mobi_mod_mage2_bonus_global_sales": "dev-master",
-    "praxigento/mobi_mod_mage2_bonus_hybrid": "dev-master",
-    "praxigento/mobi_mod_mage2_bonus_loyalty": "dev-master",
-    "praxigento/mobi_mod_mage2_core": "dev-master",
+    "praxigento/mobi_mod_accounting": "dev-master",
+    "praxigento/mobi_mod_bonus_base": "dev-master",
+    "praxigento/mobi_mod_bonus_global_sales": "dev-master",
+    "praxigento/mobi_mod_bonus_hybrid": "dev-master",
+    "praxigento/mobi_mod_bonus_loyalty": "dev-master",
+    "praxigento/mobi_mod_core": "dev-master",
     "praxigento/mobi_mod_dcp": "dev-master",
-    "praxigento/mobi_mod_mage2_downline": "dev-master",
-    "praxigento/mobi_mod_mage2_odoo": "dev-master",
+    "praxigento/mobi_mod_downline": "dev-master",
+    "praxigento/mobi_mod_odoo": "dev-master",
     "praxigento/mobi_mod_pension_fund": "dev-master",
-    "praxigento/mobi_mod_mage2_pv": "dev-master",
-    "praxigento/mobi_mod_mage2_wallet": "dev-master",
-    "praxigento/mobi_mod_mage2_warehouse": "dev-master"
+    "praxigento/mobi_mod_pv": "dev-master",
+    "praxigento/mobi_mod_wallet": "dev-master",
+    "praxigento/mobi_mod_warehouse": "dev-master"
   },
   "repositories": {
-    "praxigento/mobi_app_generic_mage2": {
+    "praxigento/mobi_app_generi": {
       "type": "vcs",
-      "url": "https://github.com/praxigento/mobi_app_generic_mage2"
+      "url": "https://github.com/praxigento/mobi_app_generic"
     },
     "praxigento/mobi_app_santegra": {
       "type": "vcs",
