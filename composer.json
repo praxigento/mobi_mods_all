@@ -16,7 +16,7 @@
     "flancer32/mage2_ext_login_as": "dev-master",
     "flancer32/php_data_object": "dev-master as 0.2.1",
     "flancer32/mage2_ext_repo": "dev-master",
-    "praxigento/mobi_app_generic_mage2": "dev-master",
+    "praxigento/mobi_app_generic": "dev-master",
     "praxigento/mobi_app_santegra": "dev-master",
     "praxigento/mobi_mod_bonus_referral": "dev-master",
     "praxigento/mobi_mod_accounting": "dev-master",
