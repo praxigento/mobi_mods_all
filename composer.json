@@ -46,10 +46,6 @@
     "praxigento/mobi_theme_base": {
       "type": "vcs",
       "url": "https://github.com/praxigento/mobi_theme_base"
-    },
-    "amasty": {
-      "type": "composer",
-      "url": "https://composer.amasty.com/community/"
     }
   },
   "minimum-stability": "dev"
