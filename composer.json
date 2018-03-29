@@ -42,6 +42,10 @@
     "praxigento/mobi_app_santegra": {
       "type": "vcs",
       "url": "https://github.com/praxigento/mobi_app_santegra"
+    },
+    "praxigento/mobi_theme_base": {
+      "type": "vcs",
+      "url": "https://github.com/praxigento/mobi_theme_base"
     }
   },
   "minimum-stability": "dev"
