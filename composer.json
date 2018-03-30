@@ -19,6 +19,7 @@
     "praxigento/mobi_app_generic": "dev-master",
     "praxigento/mobi_app_santegra": "dev-master",
     "praxigento/mobi_theme_base": "dev-master",
+    "praxigento/mobi_theme_santegra": "dev-master",
     "praxigento/mobi_mod_bonus_referral": "dev-master",
     "praxigento/mobi_mod_accounting": "dev-master",
     "praxigento/mobi_mod_bonus_base": "dev-master",
@@ -46,6 +47,10 @@
     "praxigento/mobi_theme_base": {
       "type": "vcs",
       "url": "https://github.com/praxigento/mobi_theme_base"
+    },
+    "praxigento/mobi_theme_santegra": {
+      "type": "vcs",
+      "url": "https://github.com/praxigento/mobi_theme_santegra"
     }
   },
   "minimum-stability": "dev"
