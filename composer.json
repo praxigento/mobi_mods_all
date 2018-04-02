@@ -36,17 +36,13 @@
     "praxigento/mobi_mod_warehouse": "dev-master"
   },
   "repositories": {
-    "praxigento/mobi_app_generi": {
+    "praxigento/mobi_app_generic": {
       "type": "vcs",
       "url": "https://github.com/praxigento/mobi_app_generic"
     },
     "praxigento/mobi_app_santegra": {
       "type": "vcs",
       "url": "https://github.com/praxigento/mobi_app_santegra"
-    },
-    "praxigento/mobi_theme_base": {
-      "type": "vcs",
-      "url": "https://github.com/praxigento/mobi_theme_base"
     },
     "praxigento/mobi_theme_santegra": {
       "type": "vcs",
